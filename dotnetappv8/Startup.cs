@@ -25,6 +25,7 @@ namespace dotnetappv8
         // this is vardhans comment
         // one more comment
         // latest
+        // test
         public void ConfigureServices(IServiceCollection services)
         {
             services.Configure<CookiePolicyOptions>(options =>
